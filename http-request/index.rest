@@ -1,0 +1,10 @@
+### Index
+GET http://localhost:3000/200
+
+### Success
+GET http://localhost:3000/40
+
+
+### Error
+GET http://localhost:3000/500
+

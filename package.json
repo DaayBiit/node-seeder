@@ -1,0 +1,19 @@
+{
+  "name": "seederdb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon --env-file=.env main.js --ignore *.json",
+    "start": "node --env-file=.env main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=20.6.0"
+  },
+  "engineStrict": true
+  
+}

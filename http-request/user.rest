@@ -1,0 +1,18 @@
+### Find DB MONGO
+GET http://localhost:3000/api?resource=users&source=db&type=mongo
+
+### Get default
+GET http://localhost:3000/api?resource=users&source=api
+
+
+### Find API
+GET http://localhost:3000/api?resource=users&source=api
+
+
+
+
+### Create
+POST http://localhost:3000/api?resource=users
+
+### RemoveById
+DELETE http://localhost:3000/api?resource=users
