@@ -1,2 +1,2 @@
 # node-seeder
-Carga de datos para pruebas
+App para Cargar de datos de pruebas
